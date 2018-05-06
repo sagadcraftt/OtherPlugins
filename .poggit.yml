@@ -1,0 +1,13 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/iiFlamiinBlaze/OtherPlugins
+branches:
+- master
+projects:
+  ClearInventory:
+    path: ClearInventory/
+  Feed:
+    path: Feed/
+  HungerDisabler:
+    path: HungerDisabler/
+  WhitelistReason:
+    path: WhitelistReason/
+...
