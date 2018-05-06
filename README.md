@@ -28,3 +28,4 @@ Below is a list of plugins and the most recent stable release version for each.
 | [ClearInventory](https://github.com/iiFlamiinBlaze/OtherPlugins/tree/master/ClearInventory) | v1.0.0 |
 | [Whitelist Reason](https://github.com/iiFlamiinBlaze/OtherPlugins/tree/master/WhitelistReason) | v1.0.0 |
 | [Feed](https://github.com/iiFlamiinBlaze/OtherPlugins/tree/master/Feed) | v1.2.1 |
+| [Heal](https://github.com/iiFlamiinBlaze/OtherPlugins/tree/master/Heal) | v1.0.0 |
