@@ -29,8 +29,8 @@ use pocketmine\Player;
 
 class BlazinFeed extends PluginBase{
 
-    const VERSION = "v1.2.1";
-    const PREFIX = TextFormat::AQUA . "BlazinFeed" . TextFormat::GOLD . " > ";
+    private const VERSION = "v1.2.1";
+    private const PREFIX = TextFormat::AQUA . "BlazinFeed" . TextFormat::GOLD . " > ";
 
     public function onEnable() : void{
         @mkdir($this->getDataFolder());

@@ -29,8 +29,8 @@ use pocketmine\utils\TextFormat;
 
 class ClearInventory extends PluginBase{
 
-    const VERSION = "v1.0.0";
-    const PREFIX = TextFormat::AQUA . "ClearInv" . TextFormat::GOLD . " > ";
+    private const VERSION = "v1.0.0";
+    private const PREFIX = TextFormat::AQUA . "ClearInv" . TextFormat::GOLD . " > ";
 
     public function onEnable() : void{
         $this->getLogger()->info("ClearInv " . self::VERSION . " by iiFlamiinBlaze is enabled");

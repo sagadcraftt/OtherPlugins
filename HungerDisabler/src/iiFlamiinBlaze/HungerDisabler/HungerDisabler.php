@@ -28,8 +28,7 @@ use pocketmine\utils\TextFormat;
 
 class HungerDisabler extends PluginBase implements Listener{
 
-    const VERSION = "v1.0.0";
-    const PREFIX = TextFormat::AQUA . "HungerDisabler" . TextFormat::GOLD . " > ";
+    private const VERSION = "v1.0.0";
 
     public function onEnable() : void{
         $this->getLogger()->info("HungerDisabler " . self::VERSION . " by iiFlamiinBlaze is enabled");
