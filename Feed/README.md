@@ -5,7 +5,7 @@
 | :---: | :---: |
  [![Download](https://img.shields.io/badge/download-latest-blue.svg)](https://poggit.pmmp.io/ci/iiFlamiinBlaze/OtherPlugins/BlazinFeed/) | <a href="https://discord.gg/znEsFsG"><img src="https://discordapp.com/api/guilds/425712766687510528/embed.png" alt="Discord server"/></a> |
  
-This plugin allows you to add a title to a player when they join the server through configs. This plugin is for anyone to use.
+This plugin is a survival feed plugin. This plugin is for anyone to use.
 If you have any issues with the plugin, please make an issue [here](https://github.com/iiFlamiinBlaze/OtherPlugins/issues/new).
 * Credits: [BlazeTheDev](https://github.com/iiFlamiinBlaze)
 
